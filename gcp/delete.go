@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/arehmandev/gcp-nuke/config"
-	"github.com/arehmandev/gcp-nuke/helpers"
+	"github.com/pequod55/gcp-nuke/config"
+	"github.com/pequod55/gcp-nuke/helpers"
 	"golang.org/x/sync/errgroup"
 )
 

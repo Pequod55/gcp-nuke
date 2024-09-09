@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/arehmandev/gcp-nuke/config"
-	"github.com/arehmandev/gcp-nuke/gcp"
+	"github.com/pequod55/gcp-nuke/config"
+	"github.com/pequod55/gcp-nuke/gcp"
 	"github.com/urfave/cli/v2"
 )
 

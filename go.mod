@@ -1,4 +1,4 @@
-module github.com/arehmandev/gcp-nuke
+module github.com/pequod55/gcp-nuke
 
 go 1.12
 

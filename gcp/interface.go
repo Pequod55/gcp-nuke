@@ -5,7 +5,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/arehmandev/gcp-nuke/config"
+	"github.com/pequod55/gcp-nuke/config"
 	"golang.org/x/oauth2/google"
 	"google.golang.org/api/compute/v1"
 )
